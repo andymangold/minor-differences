@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+body {
+  margin: 0 auto;
+  max-width: 36em;
+  padding: 0 0.5em;
+  line-height: 130%;
+}
+
+.message {
+
+}
+
+.U04UQ7C74 {
+  text-align: left;
+  padding-right: 1.5em;
+
+  .message-text {
+    background: pink;
+  }
+}
+
+.U04VC798H {
+  text-align: right;
+  padding-left: 1.5em;
+
+  .message-text {
+    background: mediumSpringGreen;
+  }
+}
+
+.U04VC798H + .U04UQ7C74,
+.U04UQ7C74 + .U04VC798H {
+  // The style for the first message of each speaker
+  margin-top: 0.6em;
+}
+
+.message-text {
+  display: inline-block;
+  max-width: 30em;
+  border-radius: 5px;
+  padding: 0.4em 0.6em;
+  margin: 0.15em 0;
+}
