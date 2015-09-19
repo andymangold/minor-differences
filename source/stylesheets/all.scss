@@ -3,7 +3,7 @@
 body {
   margin: 0 auto;
   max-width: 36em;
-  padding: 10em 0.5em 15em;
+  padding: 10em 0.75em 15em;
   line-height: 130%;
 }
 
@@ -35,12 +35,41 @@ body {
   margin-top: 0.6em;
 }
 
+.U04UQ7C74 + .U04VC798H .message-text:before,
+.U04VC798H:first-of-type .message-text:before {
+  height: 0;
+  width: 0;
+  border-left: 0.5em solid mediumSpringGreen;
+  border-top: 0.4em solid rgba(0,0,0,0);
+  border-bottom: 0.4em solid rgba(0,0,0,0);
+  position: absolute;
+  top: 50%;
+  right: -0.4em;
+  content: "";
+  margin-top: -0.4em;
+}
+
+.U04VC798H + .U04UQ7C74 .message-text:before,
+.U04UQ7C74:first-of-type .message-text:before {
+  height: 0;
+  width: 0;
+  border-right: 0.5em solid pink;
+  border-top: 0.4em solid rgba(0,0,0,0);
+  border-bottom: 0.4em solid rgba(0,0,0,0);
+  position: absolute;
+  top: 50%;
+  left: -0.4em;
+  content: "";
+  margin-top: -0.4em;
+}
+
 .message-text {
   display: inline-block;
   max-width: 30em;
   border-radius: 5px;
   padding: 0.4em 0.6em;
   margin: 0.15em 0;
+  position: relative;
 
   .embed-container {
     position: relative;
