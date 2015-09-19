@@ -3,7 +3,7 @@
 body {
   margin: 0 auto;
   max-width: 36em;
-  padding: 0 0.5em;
+  padding: 10em 0.5em 15em;
   line-height: 130%;
 }
 
@@ -39,7 +39,7 @@ body {
   display: inline-block;
   max-width: 30em;
   border-radius: 5px;
-  padding: 0.6em;
+  padding: 0.4em 0.6em;
   margin: 0.15em 0;
 
   .embed-container {
@@ -49,6 +49,7 @@ body {
     overflow: hidden;
     max-width: 100%;
     width: 100%;
+    margin: 0.2em 0;
 
     &:before {
       content: "This sentence is only here to make the element that contains the embedded content the correct width.";
