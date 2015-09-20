@@ -14,8 +14,7 @@
     {
         "type": "message",
         "user": "U04VC798H",
-        "text": "<div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/kTTq5S-vJ4I?rel=0&amp;controls=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>",
-        "ts": "1442538334.000033"
+        "text": "<div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/kTTq5S-vJ4I?rel=0&amp;controls=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>"
     },
     {
         "type": "message",
@@ -425,27 +424,9 @@
     },
     {
         "type": "message",
-        "user": "U04VC798H",
-        "text": "Maybe this is time to bring in the podcast: the one with him and his wife",
-        "ts": "1442539012.000102"
-    },
-    {
-        "type": "message",
         "user": "U04UQ7C74",
-        "text": "I mean the number one reason I don\u2019t have a dog is that I am afraid of how sad I will be when it dies",
+        "text": "I mean, the number one reason I don\u2019t have a dog is that I am afraid of how sad I will be when it dies",
         "ts": "1442539016.000103"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "let\u2019s finish the dog thing first, the podcast is the silver bullet here",
-        "ts": "1442539032.000104"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "ok",
-        "ts": "1442539039.000105"
     },
     {
         "type": "message",
@@ -462,19 +443,19 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "as an over thinker, I\u2019ve already run through the whole story in my head whenever the idea pops into my head that I would love to have a dog",
+        "text": "as an over thinker, I\u2019ve already run through the whole story whenever the idea pops into my head that I would love to have a dog",
         "ts": "1442539067.000108"
     },
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "on holy shit would I love to have a dog",
+        "text": "and HOLY SHIT would I love to have a dog",
         "ts": "1442539076.000109"
     },
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "I\u2019m scared that I would love it a little too much, pour my entire self into it",
+        "text": "I\u2019m scared that I would love it a little too much, pour myself into it",
         "ts": "1442539100.000110"
     },
     {
@@ -588,7 +569,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "even though I know they don't",
+        "text": "even though I know most people don't",
         "ts": "1442539289.000129"
     },
     {
@@ -795,6 +776,11 @@
     },
     {
         "type": "message",
+        "user": "U04VC798H",
+        "text": "<div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/E3s-qZsjK8I?rel=0&amp;controls=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "type": "message",
         "user": "U04UQ7C74",
         "text": "yeah",
         "ts": "1442539549.000164"
@@ -844,13 +830,13 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "well I would have liked to answer \u201cthere are lots of books you can read to answer that question for yourself, Bill\u201d",
+        "text": "well I would have liked to answer \u201cthere are lots of books you can read to inform yourself about what Steve Jobs did, Bill\u201d",
         "ts": "1442539655.000172"
     },
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and I hate you for somehow getting me to defend Steve Jobs, who I do think is remember by many with an overly rosy hue",
+        "text": "P.S. I hate you for somehow getting me to defend Steve Jobs, who I do think is remembered by many with an overly rosy hue",
         "ts": "1442539677.000173"
     },
     {
@@ -916,7 +902,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "it was _ok_, but the premise is still based on his ignorance",
+        "text": "it was <em>ok</em>, but the premise is still based on his ignorance",
         "ts": "1442539794.000184"
     },
     {
@@ -928,7 +914,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "or about the actual characteristics of pit bulls",
+        "text": "just like the actual characteristics of pit bulls",
         "ts": "1442539820.000186"
     },
     {
@@ -992,7 +978,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "comedy isn\u2019t two way",
+        "text": "but comedy isn\u2019t two way",
         "ts": "1442539954.000197"
     },
     {
@@ -1004,7 +990,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "but I guess if you\u2019re someone that always just read the headlines in the paper",
+        "text": "but I guess if you\u2019re someone that always just read the headlines",
         "ts": "1442539965.000199"
     },
     {
@@ -1022,7 +1008,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and never actually thought about Steve Jobs, the simple prompt to actually think might be funny to you",
+        "text": "and never actually thought about Steve Jobs, the simple prompt to actually think <em>might</em> be funny to you",
         "ts": "1442539986.000202"
     },
     {
@@ -1050,7 +1036,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "but you sent me the clip :wink:",
+        "text": "but you sent me the clip 😉",
         "ts": "1442540016.000208"
     },
     {
@@ -1086,18 +1072,6 @@
         "user": "U04VC798H",
         "text": "haha",
         "ts": "1442540089.000214"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "anyway, sorry",
-        "ts": "1442540093.000215"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "I\u2019m relistening to the Steve Jobs thing",
-        "ts": "1442540105.000216"
     },
     {
         "type": "message",
@@ -1172,7 +1146,7 @@
     {
         "type": "message",
         "user": "U04VC798H",
-        "text": "I think because I think about it so much",
+        "text": "I think it\u2019s because I think about it so much",
         "ts": "1442540217.000229"
     },
     {
@@ -1220,7 +1194,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "(I also smiled when he said that old iPhone chargers were choking out octopusses)",
+        "text": "(I also smiled when he said that old iPhone chargers were strangling octopusses)",
         "ts": "1442540288.000237"
     },
     {
@@ -1286,7 +1260,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and in both of our first examples, Burr is not treading any new ground for me",
+        "text": "and in both of our first examples, Burr is not saying anything I haven\u2019t already thought of",
         "ts": "1442540527.000248"
     },
     {
@@ -1334,6 +1308,11 @@
     {
         "type": "message",
         "user": "U04VC798H",
+        "text": "<div class='embed-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/fOaIFgse4Hw?rel=0&amp;controls=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "type": "message",
+        "user": "U04VC798H",
         "text": "The reason it works is because it\u2019s relatable but unspoken",
         "ts": "1442540638.000256"
     },
@@ -1346,13 +1325,13 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "maybe the reason it works for me is that I don\u2019t have kids",
+        "text": "maybe the reason Louis works for me is that I don\u2019t have kids",
         "ts": "1442540650.000258"
     },
     {
         "type": "message",
         "user": "U04VC798H",
-        "text": "we wouldnt relate and laugh",
+        "text": "we wouldn\u2019t relate and laugh",
         "ts": "1442540653.000259"
     },
     {
@@ -1496,7 +1475,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and I\u2019m not too keen on either one",
+        "text": "and I don\u2019t think I like either reason",
         "ts": "1442540928.000283"
     },
     {
@@ -1559,12 +1538,6 @@
     },
     {
         "type": "message",
-        "user": "U04VC798H",
-        "text": "one sec",
-        "ts": "1442541040.000294"
-    },
-    {
-        "type": "message",
         "user": "U04UQ7C74",
         "text": "Burr feels like a long chain of cheap laughs, strung together by a well practiced stage presence and a lot of charisma",
         "ts": "1442541047.000295"
@@ -1590,7 +1563,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "ok that one is great",
+        "text": "ok the phone bill one is great",
         "ts": "1442541115.000299"
     },
     {
@@ -1608,13 +1581,13 @@
     {
         "type": "message",
         "user": "U04VC798H",
-        "text": "He might start with a universal thing",
+        "text": "he might start with a universal thing",
         "ts": "1442541138.000302"
     },
     {
         "type": "message",
         "user": "U04VC798H",
-        "text": "and fine fresh takes and great angles on it",
+        "text": "and find fresh takes and great angles on it",
         "ts": "1442541149.000303"
     },
     {
@@ -1673,6 +1646,11 @@
     },
     {
         "type": "message",
+        "user": "U04VC798H",
+        "text": "<div class='embed-container'><iframe width='420' height='315' src='https://www.youtube.com/embed/MJZP2gsS5VQ?rel=0&amp;controls=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "type": "message",
         "user": "U04UQ7C74",
         "text": "so first of all, I want to point out that his wife demonstrates the exact kind of listening that Burr has not in anything I\u2019ve seen",
         "ts": "1442541259.000313"
@@ -1686,7 +1664,7 @@
     {
         "type": "message",
         "user": "U04VC798H",
-        "text": "I woud have to assume this is why they can stay married",
+        "text": "I would have to assume this is why they can stay married",
         "ts": "1442541303.000315"
     },
     {
@@ -1698,7 +1676,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "he on the other hand spends half the time complaining that she\u2019s interrupting, even though they each speak for roughly the same amount of time in the clip",
+        "text": "on the other hand, he spends half the time complaining that she\u2019s interrupting, even though they each speak for roughly the same amount of time in the clip",
         "ts": "1442541321.000317"
     },
     {
@@ -1752,20 +1730,8 @@
     {
         "type": "message",
         "user": "U04VC798H",
-        "text": "he doesn\u2019t address her question and she doesn\u2019t address his late naswer",
+        "text": "he doesn\u2019t address her question and she doesn\u2019t address his point",
         "ts": "1442541464.000326"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "huh? his late answer?",
-        "ts": "1442541479.000327"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "or his point",
-        "ts": "1442541487.000328"
     },
     {
         "type": "message",
@@ -1953,12 +1919,6 @@
     },
     {
         "type": "message",
-        "user": "U04UQ7C74",
-        "text": "but instead of engaging with the guy, making it a teachable moment, which he LITERALLY WAS JUST SAYING IS WHAT WE SHOULD DO",
-        "ts": "1442541860.000361"
-    },
-    {
-        "type": "message",
         "user": "U04VC798H",
         "text": "Listen to his wife that this guy is a lost cause?",
         "ts": "1442541861.000362"
@@ -2104,13 +2064,13 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and yes, perhaps part of me is that I can\u2019t turn that part of me off",
+        "text": "and yes, perhaps part of me is that I can\u2019t turn that off",
         "ts": "1442542242.000386"
     },
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "there is no enjoying it outside of that perspective, because all the humor is lost completely for me",
+        "text": "there is no enjoying it outside of that perspective, because all the humor is tainted for me",
         "ts": "1442542263.000387"
     },
     {
@@ -2161,6 +2121,11 @@
     },
     {
         "type": "message",
+        "user": "U04VC798H",
+        "text": "<div class='embed-container'><iframe width='420' height='315' src='https://www.youtube.com/embed/3jMhoGUiIkk?rel=0&amp;controls=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "type": "message",
         "user": "U04UQ7C74",
         "text": "lets",
         "ts": "1442542318.000396"
@@ -2192,13 +2157,13 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "there are some just world class burns",
+        "text": "some world class burns",
         "ts": "1442542383.000401"
     },
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "calling Philly a shitty \u201cone-bridge\u201d town",
+        "text": "calling Philly a \u201cone-bridge having, piece of shit city\u201d",
         "ts": "1442542391.000402"
     },
     {
@@ -2262,7 +2227,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and yes, I\u2019ll be that jerk that just points out that the very idea that \u201csuck a dick\u201d is an insult, implies that gay men and straight women are lowly",
+        "text": "and yes, I\u2019ll be the pedant that points out that the very idea that \u201csuck a dick\u201d is an insult implies that gay men and straight women are lowly or less than",
         "ts": "1442542495.000413"
     },
     {
@@ -2340,7 +2305,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and everyone else\u2019s subservience",
+        "text": "and everyone else\u2019s subordinance",
         "ts": "1442542651.000426"
     },
     {
@@ -2428,6 +2393,11 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
+        "text": "<div class='embed-container'><iframe width='420' height='315' src='https://www.youtube.com/embed/7JkPx0gk6LE?rel=0&amp;controls=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "type": "message",
+        "user": "U04UQ7C74",
         "text": "when the audience was also notoriously harsh",
         "ts": "1442542794.000441"
     },
@@ -2506,7 +2476,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "but I know that everything about Burr reeks of privilege to me. he deserves to be there, and if you don\u2019t think so you should suck his dick",
+        "text": "but I know that everything about Burr reeks of privilege to me. He acts like he <em>deserves</em> to be there, and if you don\u2019t think so you should suck his dick",
         "ts": "1442542916.000454"
     },
     {
@@ -2524,7 +2494,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "Bernie is building himself up. He is asserting himself, but not in such a presumptuous way",
+        "text": "Bernie is building himself up. He is asserting himself, but not in a smug way",
         "ts": "1442542977.000457"
     },
     {
@@ -2566,6 +2536,11 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
+        "text": "<div class='embed-container'><iframe width='420' height='315' src='https://www.youtube.com/embed/EZW7et3tPuQ?rel=0&amp;controls=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "type": "message",
+        "user": "U04UQ7C74",
         "text": "that assertion of dominance means something much different coming from a black man in America than it does from a white man",
         "ts": "1442543075.000464"
     },
@@ -2596,7 +2571,13 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and rap music, and Bernie talking about how good he is at sex, and every other example of machismo  is a triumph over an oppressive regime",
+        "text": "rap music, Bernie talking about how good he is at sex, and every other example of machismo is a triumph over an oppressive regime when it\u2019s coming out of the mouth of a black man",
+        "ts": "1442543124.000469"
+    },
+    {
+        "type": "message",
+        "user": "U04UQ7C74",
+        "text": "it\u2019s unfortunate that it often comes at the expense of respect for black women, but it still means something",
         "ts": "1442543124.000469"
     },
     {
@@ -2686,7 +2667,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and as I said, Burr got a few smiles out of me with his characterizations of philadelphia, which is the city I grew up closest to",
+        "text": "and as I said, Burr got a few smiles out of me with his characterizations of Philadelphia, which is the city I grew up closest to",
         "ts": "1442543338.000484"
     },
     {
@@ -2710,7 +2691,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "but I\u2019m just a few beers shy of being exactly the person Burr has in his scope that night, at least on paper",
+        "text": "but I\u2019m just a few beers shy of being exactly the person Burr has in his scope in Philadelphia that night, at least on paper",
         "ts": "1442543428.000488"
     },
     {
@@ -2722,7 +2703,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "and the whole thing drips of white male supremacy in a way that really gets to me",
+        "text": "and it drips of white male supremacy in a way that really gets to me",
         "ts": "1442543468.000490"
     },
     {
@@ -2758,7 +2739,7 @@
     {
         "type": "message",
         "user": "U04VC798H",
-        "text": "I dont think he could be a thoughtful guy on stage and make ti work",
+        "text": "I dont think he could be a thoughtful guy on stage and make it work",
         "ts": "1442543507.000496"
     },
     {
@@ -2772,18 +2753,6 @@
         "user": "U04VC798H",
         "text": "He can be an aggressive guy that lives in this culture and surprises you though",
         "ts": "1442543532.000498"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "sidebar: I keep imagining I\u2019m talking about Aaron Burr",
-        "ts": "1442543535.000499"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "and it\u2019s making me laugh",
-        "ts": "1442543539.000500"
     },
     {
         "type": "message",
@@ -2812,7 +2781,7 @@
     {
         "type": "message",
         "user": "U04UQ7C74",
-        "text": "if he recognized how fragile masculinity is",
+        "text": "if he recognized how actually fragile masculinity is",
         "ts": "1442543581.000505"
     },
     {
@@ -2902,153 +2871,5 @@
         "user": "U04VC798H",
         "text": "is where we will always be split",
         "ts": "1442543739.000520"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "_Fin_",
-        "ts": "1442543752.000521"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "hah",
-        "ts": "1442543757.000522"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "gosh how many words do you think that was?",
-        "ts": "1442543764.000523"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "a lot",
-        "ts": "1442543767.000524"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "would anyone ever read that?",
-        "edited": {
-            "user": "U04VC798H",
-            "ts": "1442543774.000000"
-        },
-        "ts": "1442543771.000525"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "I don\u2019t know! but I\u2019m kind of excited to find out",
-        "ts": "1442543786.000527"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "alright!",
-        "ts": "1442543791.000528"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "fwiw, I think I would have laughed my ass off at Bill Burr in high school or early college",
-        "ts": "1442543814.000529"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "which I don\u2019t mean as some enlightened insult",
-        "ts": "1442543824.000530"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "but I do get it, I just can\u2019t get over it",
-        "ts": "1442543835.000531"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "If i didn\u2019t know you and you said that on twitter",
-        "ts": "1442543843.000532"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "I\u2019d be mad but I know, hah",
-        "ts": "1442543847.000533"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "the \u201cSteve Jobs walks by eating some pretentious fruit, like a pear\"",
-        "ts": "1442543860.000534"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "and showing the pitbull his name on the phone bill",
-        "ts": "1442543867.000535"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "these are great jokes!",
-        "ts": "1442543870.000536"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "I don\u2019t think it\u2019s a coincidence that the great ones are also the ones that are least offensive",
-        "ts": "1442543891.000537"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "Joe Frazier should be eternalized in a statue!",
-        "ts": "1442543911.000538"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "it\u2019s SO SILLY to have a statue of a fictional boxer",
-        "ts": "1442543921.000539"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "That statue is still in transit by the way",
-        "ts": "1442543935.000540"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "when I was a kid I assumed he was real because WHY WOULD YOU HAVE A STATUE OF A FICTIONAL CHARACTER",
-        "ts": "1442543936.000541"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "haha",
-        "ts": "1442543943.000542"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "I thought the Rocky movies were a dramatization of real events",
-        "ts": "1442543967.000543"
-    },
-    {
-        "type": "message",
-        "user": "U04UQ7C74",
-        "text": "ok, let\u2019s move out of this channel if we\u2019ve said all we want published, will make editing easier",
-        "ts": "1442543985.000544"
-    },
-    {
-        "type": "message",
-        "user": "U04VC798H",
-        "text": "sounds good",
-        "ts": "1442543996.000545"
     }
 ]
