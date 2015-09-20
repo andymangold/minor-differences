@@ -1,10 +1,15 @@
 @charset "utf-8";
 
+$andys-color: #D8D6FF;
+$matts-color: #FFDBC8;
+$black: #283236;
+
 body {
   margin: 0 auto;
   max-width: 36em;
   padding: 10em 0.75em 15em;
   line-height: 130%;
+  color: $black;
 }
 
 .message {
@@ -16,7 +21,7 @@ body {
   padding-right: 1.5em;
 
   .message-text {
-    background: #D8D7FF;
+    background: $andys-color;
   }
 }
 
@@ -25,7 +30,7 @@ body {
   padding-left: 1.5em;
 
   .message-text {
-    background: mediumSpringGreen;
+    background: $matts-color;
   }
 }
 
@@ -49,14 +54,14 @@ body {
 .U04UQ7C74 + .U04VC798H .message-text:before,
 .U04VC798H:first-of-type .message-text:before {
   @extend %speech-bubble-triangles;
-  border-left: 0.5em solid mediumSpringGreen;
+  border-left: 0.5em solid $matts-color;
   right: -0.4em;
 }
 
 .U04VC798H + .U04UQ7C74 .message-text:before,
 .U04UQ7C74:first-of-type .message-text:before {
   @extend %speech-bubble-triangles;
-  border-right: 0.5em solid #D8D7FF;
+  border-right: 0.5em solid $andys-color;
   left: -0.4em;
 }
 
